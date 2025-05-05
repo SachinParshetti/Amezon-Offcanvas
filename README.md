@@ -1,3 +1,3 @@
 # Amezon Offcanvas Clone
-this is a bootstrap offcanvas.
-Try to clone amazon offcanvas
+this is a bootstrap offcanvas crated while practising bootstrap.
+Tried to clone amazon offcanvas.
